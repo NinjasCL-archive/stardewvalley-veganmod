@@ -18,7 +18,7 @@ xnbData:
 content:  #!Dictionary<String,String>
     Pantry/0: "Spring Crops/O 465 20/24 1 0 188 1 0 190 1 0 192 1 0/0" #!String
     Pantry/1: "Summer Crops/O 621 1/256 1 0 260 1 0 258 1 0 254 1 0/3" #!String
-    Pantry/2: "Fall Crops/BO 351 5/270 1 0 272 1 0 276 1 0 280 1 0/2" #!String
+    Pantry/2: "Fall Crops/BO 15 1/270 1 0 272 1 0 276 1 0 280 1 0/2" #!String
     Pantry/3: "Quality Crops/BO 645 1/24 5 2 254 5 2 276 5 2 270 5 2/6/3" #!String
     Pantry/4: "Treasures/BO 499 5/96 1 0 97 1 0 98 1 0 99 1 0 101 1 0 105 1 0 64 1 0 62 1 0 60 1 0 72 1 0 82 1 0/4/5" #!String
     Pantry/5: "Artisan/BO 12 1/342 1 0 245 1 0 423 1 0 419 1 0 346 1 0 344 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0/1/6" #!String
