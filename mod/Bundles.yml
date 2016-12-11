@@ -18,9 +18,9 @@ xnbData:
 content:  #!Dictionary<String,String>
     Pantry/0: "Spring Crops/O 465 20/24 1 0 188 1 0 190 1 0 192 1 0/0" #!String
     Pantry/1: "Summer Crops/O 621 1/256 1 0 260 1 0 258 1 0 254 1 0/3" #!String
-    Pantry/2: "Fall Crops/BO 15 1/270 1 0 272 1 0 276 1 0 280 1 0/2" #!String
+    Pantry/2: "Fall Crops/BO 351 5/270 1 0 272 1 0 276 1 0 280 1 0/2" #!String
     Pantry/3: "Quality Crops/BO 645 1/24 5 2 254 5 2 276 5 2 270 5 2/6/3" #!String
-    Pantry/4: "Treasures/BO 499 10/96 1 0 97 1 0 98 1 0 99 1 0 101 1 0 112 1 0 64 1 0 62 1 0 60 1 0 72 1 0 82 1 0/4/5" #!String
+    Pantry/4: "Treasures/BO 499 5/96 1 0 97 1 0 98 1 0 99 1 0 101 1 0 105 1 0 64 1 0 62 1 0 60 1 0 72 1 0 82 1 0/4/5" #!String
     Pantry/5: "Artisan/BO 12 1/342 1 0 245 1 0 423 1 0 419 1 0 346 1 0 344 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0/1/6" #!String
     Crafts Room/13: "Spring Foraging/O 495 30/16 1 0 18 1 0 20 1 0 22 1 0/0" #!String
     Crafts Room/14: "Summer Foraging/O 496 30/396 1 0 398 1 0 402 1 0/3" #!String
@@ -31,8 +31,8 @@ content:  #!Dictionary<String,String>
     Fish Tank/6: "Yummy Food/O 486 30/207 1 0 205 1 0 610 1 0 208 1 0/6" #!String
     Fish Tank/7: "Beautiful Gems/O 621 5/68 10 0 72 1 0 70 10 0 66 10 0/0" #!String
     Fish Tank/8: "Booze/O 690 5/304 1 0 348 1 0 346 1 0 303 1 0/5" #!String
-    Fish Tank/9: "Spicy Salad/R 517 1/152 5 0 260 5 0 398 5 0/1" #!String
-    Fish Tank/10: "Crafting/O 349 5/690 1 0 599 5 0 93 99 0 463 1 0/4" #!String
+    Fish Tank/9: "Spicy Salad/R 517 1/609 1 0 260 5 0 398 5 0/1" #!String
+    Fish Tank/10: "Crafting/O 349 5/287 1 0 599 5 0 93 99 0 463 1 0/4" #!String
     Fish Tank/11: "Seeds/O 238 5/487 10 0 495 10 0 496 10 0 497 10 0 498 10 0 486 10 0 485 10 0 474 10 0 490 10 0 301 10 0/1/5" #!String
     Boiler Room/20: "Blacksmith's/BO 13 1/334 1 0 335 1 0 336 1 0/2" #!String
     Boiler Room/21: "Geologist's/O 749 5/80 1 0 86 1 0 84 1 0 82 1 0/1" #!String
