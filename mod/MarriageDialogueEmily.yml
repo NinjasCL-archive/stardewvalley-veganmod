@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "I wonder where the flying insects go when it rains? Don't they get hit by the raindrops?" #!String
-    Rainy_Day_1: "A day like this is a blessing from mother nature." #!String
-    Rainy_Day_2: "Good morning... I got this gift for you. Don't worry, I already purified it with sage incense and is vegan-friendly. [230 235 464 610 207 649 349]" #!String
+    Rainy_Day_0: "I wonder where the flying insects go when it rains? Don't they get hit by the raindrops?. I feel grateful with what I have. This is a wonderful life. I'm really happy sharing it with you." #!String
+    Rainy_Day_1: "A day like this is a blessing from mother nature. She is wise and beautiful. You are a beautiful person. So am I. I love you so much." #!String
+    Rainy_Day_2: "Good morning @... I prepared this meal for you. Don't worry, It is vegan-friendly and was made with love and purified with sage incense. [230 235 464 610 207 649 349 609]" #!String
     Rainy_Day_3: "I meant to let the parrot go free, but his wing never fully healed. He seems content, though. I give him lots of attention.#$e#He told me that he's happy here. But I think we should send him to a rehabilitation center sooner or later." #!String
-    Rainy_Day_4: "I still remember when you first moved here I had a dream about you. I knew right then that our life-paths would intertwine. I love you.$4" #!String
-    Rainy_Night_0: "Every moment has a unique and precious beauty... do you notice? It can be easy to forget, sometimes.#$e#The power of now, mindfulness, the kybalion. I practice that every moment." #!String
+    Rainy_Day_4: "I still remember when you first moved here I had a dream about you. I knew right then that our life-paths would intertwine. I'm happy that you are here. I love you.$4" #!String
+    Rainy_Night_0: "Every moment has a unique and precious beauty... do you notice? It can be easy to forget, sometimes.#$e#The power of now, mindfulness, the kybalion. I practice that every moment. Remember 'What you think is what you are'." #!String
     patio_Emily: "This is my favorite spot for a morning meditation.#$e#I visualize the energy from this crystal garden flowing through my body.#$e#Later I will read Yoba's Tarot for advise." #!String
     Rainy_Night_1: "I can hear the plants talking to each other... they're so happy after today's rain!.#$e#They will bring joy to the world, people should know that enslaving animals is wrong and plants are here for helping us stop that." #!String
-    Rainy_Night_2: "How was your day, @ my dear? You look a little soggy. Let my love and this delicious vegan-friendly meal warm you up. [207]" #!String
+    Rainy_Night_2: "How was your day, @ my dear? You look a little soggy. Let my love and this delicious vegan-friendly meal warm you up. [230 235 464 610 207 649 395 196 349]" #!String
     Rainy_Night_3: "My day was very peaceful and full of wonderful experiences. How was yours?" #!String
     Rainy_Night_4: "Want some dessert? It's my special raw, gluten-free, vegan-friendly version and sweetened only with cactus syrup. [232 234 223 220]$h" #!String
     Rainy_Night_5: "Does the sound of rain ever put you in a trance?. It helps me improving my tailoring skills." #!String
@@ -34,15 +34,15 @@ content:  #!Dictionary<String,String>
     Indoor_Day_3: "My tarot reading was very helpful... You are truly the most wonderful partner for me. I love you. Let's start our day with the right state of mind!" #!String
     Indoor_Day_4: "Ughh... *gurgle*... I drank kombucha too fast for breakfast.$s" #!String
     Indoor_Night_0: "Is that a new hole I see in your shirt? I can sew that up for you, no problem. Tailoring is an art and my passion." #!String
-    Indoor_Night_1: "Welcome home, @. I hope you had a wonderful day. You are always here for me. Thank you so much. Here is a vegan-friendly dinner [230 235 464 610 207 649 349]" #!String
+    Indoor_Night_1: "Welcome home, @. I hope you had a wonderful day. You are always here for me. Thank you so much. Here is a vegan-friendly dinner. [230 235 464 610 207 649 349 609]" #!String
     Indoor_Night_2: "Is it bed time already? My, when you got a passion like tailoring the day just floats away!.$u" #!String
     Indoor_Night_3: "Ah, that aroma! It can only be you.$h#$e#It's a good smell. Shall we dance? Lets celebrate that we are alive and being together." #!String
     Indoor_Night_4: "I did the house shores and improved my tailoring skills, helped some people and earned some money. It was a very productive day!" #!String
     Outdoor_0: "I love getting up early. There's a certain freshness to the air and the wiildlife is much more active." #!String
     Outdoor_1: "What's on the agenda today, dear? Mine includes meditation, reading abolitionist vegan books and earning some money with my tailoring skills." #!String
-    Outdoor_2: "I'm really happy that we are together. Let's keep sharing our lives as long as possible." #!String
-    Outdoor_3: "I bought some fruits with the money I made tailoring. Lets share them together, shall we?. [613 634 635 636 637 638]" #!String
-    Outdoor_4: "Good morning my love! I was wondering when you'd finally roll out of bed!$h#$e#It's okay, @... you deserve a good night of rest. Here, have some vegan-friendly energy boost [395]" #!String
+    Outdoor_2: "I'm really happy that we are together. Let's keep sharing our lives as long as possible. Here is your breakfast with lots of love and vegan-friendly. [230 235 464 610 207 649 395 196 349]" #!String
+    Outdoor_3: "I bought some fruits with the money I earned tailoring. Lets share them together, shall we?. [613 634 635 636 637 638]" #!String
+    Outdoor_4: "Good morning my love! I was wondering when you'd finally roll out of bed!$h#$e#It's okay, @... you deserve a good night of rest. Here, have some vegan-friendly energy boost. [395]" #!String
     OneKid_0: "I hope we can raise %kid1 to be kind and considerate to all living beings. A life based in compassion and high moral and ethical values is more important than getting A's in school." #!String
     OneKid_1: "Is one child enough, or should we raise another?#$e#I'm ready whenever you are." #!String
     OneKid_3: "I lit a pale green candle and shook a sprig of baby-mint over %kid1. That should ward off any dangerous spirits and negative energies." #!String

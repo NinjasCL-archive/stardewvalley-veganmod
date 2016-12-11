@@ -31,7 +31,7 @@ content:  #!Dictionary<String,String>
     Fish Tank/6: "Yummy Food/O 486 30/207 1 0 205 1 0 610 1 0 208 1 0/6" #!String
     Fish Tank/7: "Beautiful Gems/O 621 5/68 10 0 72 1 0 70 10 0 66 10 0/0" #!String
     Fish Tank/8: "Booze/O 690 5/304 1 0 348 1 0 346 1 0 303 1 0/5" #!String
-    Fish Tank/9: "Spicy Salad/R 517 1/609 1 0 260 5 0 398 5 0/1" #!String
+    Fish Tank/9: "Spicy Salad/R 517 1/278 5 0 260 5 0 270 5 0/1" #!String
     Fish Tank/10: "Crafting/O 349 5/287 1 0 599 5 0 93 99 0 463 1 0/4" #!String
     Fish Tank/11: "Seeds/O 238 5/487 10 0 495 10 0 496 10 0 497 10 0 498 10 0 486 10 0 485 10 0 474 10 0 490 10 0 301 10 0/1/5" #!String
     Boiler Room/20: "Blacksmith's/BO 13 1/334 1 0 335 1 0 336 1 0/2" #!String
