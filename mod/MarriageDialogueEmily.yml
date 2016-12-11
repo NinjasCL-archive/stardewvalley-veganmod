@@ -40,7 +40,7 @@ content:  #!Dictionary<String,String>
     Indoor_Night_4: "I did the house shores and improved my tailoring skills, helped some people and earned some money. It was a very productive day!" #!String
     Outdoor_0: "I love getting up early. There's a certain freshness to the air and the wiildlife is much more active." #!String
     Outdoor_1: "What's on the agenda today, dear? Mine includes meditation, reading abolitionist vegan books and earning some money with my tailoring skills." #!String
-    Outdoor_2: "I'm really happy that we are together. Let's keep sharing our lives as long as possible. Here is your breakfast with lots of love and vegan-friendly. [230 235 464 610 207 649 395 196 349]" #!String
+    Outdoor_2: "I'm really happy that we are together. Let's keep sharing our lives as long as possible. Here is a special meal with lots of love and vegan-friendly ingredients. [230 235 464 610 207 649 395 196 349]" #!String
     Outdoor_3: "I bought some fruits with the money I earned tailoring. Lets share them together, shall we?. [613 634 635 636 637 638]" #!String
     Outdoor_4: "Good morning my love! I was wondering when you'd finally roll out of bed!$h#$e#It's okay, @... you deserve a good night of rest. Here, have some vegan-friendly energy boost. [395]" #!String
     OneKid_0: "I hope we can raise %kid1 to be kind and considerate to all living beings. A life based in compassion and high moral and ethical values is more important than getting A's in school." #!String
