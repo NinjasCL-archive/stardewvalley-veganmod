@@ -13,6 +13,7 @@ Copy `Bundles.xnb` replacing the file in `Data/Bundles.xnb` and optionally do th
 **Important**
  - Backup your files.
  - Use at your own risk.
+ - This is beta, may crash the game. Currently tested on v1.1. Please report any issues.
 
 ## Compiling
 Use https://github.com/draivin/XNBNode
