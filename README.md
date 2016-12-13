@@ -29,7 +29,7 @@ Replaced `Preserver Jar` for `Iridium Sprinkler` Because Quality Crops deserve a
 
 ### Animal Bundle
 Animal Bundle Renamed to `Treasures Bundle` requiring artifacts and gems to be completed.
-The prize is now 5 `Ancient Seeds`. Rather than the `Cheese Press` as Cheese is not Vegan.
+The prize is now 150 `Hardwood`. Rather than the `Cheese Press` as Cheese is not Vegan.
 
 ### Artisan Bundle
 Artisan Bundle items like `Truffle Oil`, `Cloth`, `Goat Chesse`, `Cheese`, `Honey`, were replaced by other items items.
@@ -60,7 +60,7 @@ The prize is now 5 `Quality Sprinklers`.
 
 #### Booze
 Requiring items like `Hops`, `Wine`, `Beer` and `Pale Ale` to complete.
-The prize is now 5 `Warp totem Beach`.
+The prize is now 5 `Warp Totem Farm`.
 
 #### Spicy Salad
 Requiring items like `Hot Pepper`, `Corn` and `Bok Choy`.
