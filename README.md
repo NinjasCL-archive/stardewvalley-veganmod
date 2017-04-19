@@ -85,5 +85,8 @@ The prize is now 5 `Cranberry Sauce`.
 ![](img/8.png)
 ![](img/9.png)
 
+
 [Made with Love by Ninjas.cl](http://ninjas.cl)
+
+Special thanks to Martin Steigerwald for it's kind letter about this mod :)
 
