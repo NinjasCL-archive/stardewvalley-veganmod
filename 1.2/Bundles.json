@@ -1,0 +1,3706 @@
+[{
+  "uid": "185b35ec7502ad3bdbe2c850331964e4",
+  "raw": "Pantry\/0",
+  "id": 0,
+  "title": "Spring Crops",
+  "xnb": {
+    "raw": "Spring Crops\/O 465 20\/24 1 0 188 1 0 190 1 0 192 1 0\/0"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Spring Crops",
+  "requirements": [{
+    "item": {
+      "uid": "e5c336ca5ca70776a93f2238390e1120",
+      "id": 24,
+      "xnb": {
+        "raw": "Parsnip\/35\/10\/Basic -75\/Parsnip\/A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients."
+      },
+      "name": "Parsnip",
+      "description": "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Parsnip"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "24 1 0 188 1 0 190 1 0 192 1 0"
+  }, {
+    "item": {
+      "uid": "6833d60af24188f21803d77689d09259",
+      "id": 188,
+      "xnb": {
+        "raw": "Green Bean\/40\/10\/Basic -75\/Green Bean\/A juicy little bean with a cool, crisp snap."
+      },
+      "name": "Green Bean",
+      "description": "A juicy little bean with a cool, crisp snap.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Green Bean"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "24 1 0 188 1 0 190 1 0 192 1 0"
+  }, {
+    "item": {
+      "uid": "0cf179f993de7196becd073b83653ea3",
+      "id": 190,
+      "xnb": {
+        "raw": "Cauliflower\/175\/30\/Basic -75\/Cauliflower\/Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients."
+      },
+      "name": "Cauliflower",
+      "description": "Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cauliflower"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "24 1 0 188 1 0 190 1 0 192 1 0"
+  }, {
+    "item": {
+      "uid": "4625184ae27898b96011af529476b397",
+      "id": 192,
+      "xnb": {
+        "raw": "Potato\/80\/10\/Basic -75\/Potato\/A widely cultivated tuber."
+      },
+      "name": "Potato",
+      "description": "A widely cultivated tuber.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Potato"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "24 1 0 188 1 0 190 1 0 192 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "6ab66871736401f18025bf49c0159661",
+      "id": 465,
+      "xnb": {
+        "raw": "Speed-Gro\/20\/-300\/Basic -19\/Speed-Gro\/Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil."
+      },
+      "name": "Speed-Gro",
+      "description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Speed-Gro"
+    },
+    "quantity": 20,
+    "type": "O",
+    "raw": "O 465 20"
+  }
+}, {
+  "uid": "8b43dada0ba7011f497404f877cd0874",
+  "raw": "Pantry\/1",
+  "id": 1,
+  "title": "Summer Crops",
+  "xnb": {
+    "raw": "Summer Crops\/O 621 1\/256 1 0 260 1 0 258 1 0 254 1 0\/3"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Summer Crops",
+  "requirements": [{
+    "item": {
+      "uid": "f1777afd482c237df033f1fa8cd41c05",
+      "id": 256,
+      "xnb": {
+        "raw": "Tomato\/60\/8\/Basic -75\/Tomato\/Rich and slightly tangy, the Tomato has a wide variety of culinary uses."
+      },
+      "name": "Tomato",
+      "description": "Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Tomato"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "256 1 0 260 1 0 258 1 0 254 1 0"
+  }, {
+    "item": {
+      "uid": "0bf4c19ac1f6c72c2d98be234dd57dc1",
+      "id": 260,
+      "xnb": {
+        "raw": "Hot Pepper\/40\/5\/Basic -79\/Hot Pepper\/Fiery hot with a hint of sweetness."
+      },
+      "name": "Hot Pepper",
+      "description": "Fiery hot with a hint of sweetness.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hot Pepper"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "256 1 0 260 1 0 258 1 0 254 1 0"
+  }, {
+    "item": {
+      "uid": "9d68816c44b44478c3d4a3b2394db262",
+      "id": 258,
+      "xnb": {
+        "raw": "Blueberry\/50\/10\/Basic -79\/Blueberry\/A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration."
+      },
+      "name": "Blueberry",
+      "description": "A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Blueberry"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "256 1 0 260 1 0 258 1 0 254 1 0"
+  }, {
+    "item": {
+      "uid": "d63e7eb5577cd56c07c75fe5587e651b",
+      "id": 254,
+      "xnb": {
+        "raw": "Melon\/250\/45\/Basic -79\/Melon\/A cool, sweet summer treat."
+      },
+      "name": "Melon",
+      "description": "A cool, sweet summer treat.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Melon"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "256 1 0 260 1 0 258 1 0 254 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "58b080d845e98465516491139378ad3f",
+      "id": 621,
+      "xnb": {
+        "raw": "Quality Sprinkler\/450\/-300\/Crafting -8\/Quality Sprinkler\/Waters the 8 adjacent tiles every morning."
+      },
+      "name": "Quality Sprinkler",
+      "description": "Waters the 8 adjacent tiles every morning.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Quality Sprinkler"
+    },
+    "quantity": 1,
+    "type": "O",
+    "raw": "O 621 1"
+  }
+}, {
+  "uid": "6342f2e488c555e22da50993b20ca5c1",
+  "raw": "Pantry\/2",
+  "id": 2,
+  "title": "Fall Crops",
+  "xnb": {
+    "raw": "Fall Crops\/BO 126 1\/270 1 0 272 1 0 276 1 0 280 1 0\/2"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Fall Crops",
+  "requirements": [{
+    "item": {
+      "uid": "7ecfa6905c9f5dbb88517f832537e45a",
+      "id": 270,
+      "xnb": {
+        "raw": "Corn\/50\/10\/Basic -75\/Corn\/One of the most popular grains. The sweet, fresh cobs are a summer favorite."
+      },
+      "name": "Corn",
+      "description": "One of the most popular grains. The sweet, fresh cobs are a summer favorite.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Corn"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "270 1 0 272 1 0 276 1 0 280 1 0"
+  }, {
+    "item": {
+      "uid": "8e99dc171052ea4fa5b29f4b5bca765a",
+      "id": 272,
+      "xnb": {
+        "raw": "Eggplant\/60\/8\/Basic -75\/Eggplant\/A rich and wholesome relative of the tomato. Delicious fried or stewed."
+      },
+      "name": "Eggplant",
+      "description": "A rich and wholesome relative of the tomato. Delicious fried or stewed.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Eggplant"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "270 1 0 272 1 0 276 1 0 280 1 0"
+  }, {
+    "item": {
+      "uid": "af10132167b4aa900a8d10b7f305d5b7",
+      "id": 276,
+      "xnb": {
+        "raw": "Pumpkin\/320\/-300\/Basic -75\/Pumpkin\/A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration."
+      },
+      "name": "Pumpkin",
+      "description": "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pumpkin"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "270 1 0 272 1 0 276 1 0 280 1 0"
+  }, {
+    "item": {
+      "uid": "af9b00558f7d239b0866d2acb2473591",
+      "id": 280,
+      "xnb": {
+        "raw": "Yam\/160\/18\/Basic -75\/Yam\/A starchy tuber with a lot of culinary versatility."
+      },
+      "name": "Yam",
+      "description": "A starchy tuber with a lot of culinary versatility.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Yam"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "270 1 0 272 1 0 276 1 0 280 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "75b7576bcd3b28924f7279a39b6b9334",
+      "id": 126,
+      "xnb": {
+        "raw": "Rarecrow\/0\/-300\/Crafting -9\/Collect them all! (3 of 8)\/true\/true\/0"
+      },
+      "name": "Rarecrow",
+      "description": "Collect them all! (3 of 8)",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Rarecrow"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 126 1"
+  }
+}, {
+  "uid": "71339db3caa8a681974b344826a29e8a",
+  "raw": "Pantry\/3",
+  "id": 3,
+  "title": "Quality Crops",
+  "xnb": {
+    "raw": "Quality Crops\/O 466 30\/24 5 2 254 5 2 276 5 2 270 5 2\/6\/3"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Quality Crops",
+  "requirements": [{
+    "item": {
+      "uid": "e5c336ca5ca70776a93f2238390e1120",
+      "id": 24,
+      "xnb": {
+        "raw": "Parsnip\/35\/10\/Basic -75\/Parsnip\/A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients."
+      },
+      "name": "Parsnip",
+      "description": "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Parsnip"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 0,
+    "raw": "24 5 2 254 5 2 276 5 2 270 5 2"
+  }, {
+    "item": {
+      "uid": "d63e7eb5577cd56c07c75fe5587e651b",
+      "id": 254,
+      "xnb": {
+        "raw": "Melon\/250\/45\/Basic -79\/Melon\/A cool, sweet summer treat."
+      },
+      "name": "Melon",
+      "description": "A cool, sweet summer treat.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Melon"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 3,
+    "raw": "24 5 2 254 5 2 276 5 2 270 5 2"
+  }, {
+    "item": {
+      "uid": "af10132167b4aa900a8d10b7f305d5b7",
+      "id": 276,
+      "xnb": {
+        "raw": "Pumpkin\/320\/-300\/Basic -75\/Pumpkin\/A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration."
+      },
+      "name": "Pumpkin",
+      "description": "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pumpkin"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 6,
+    "raw": "24 5 2 254 5 2 276 5 2 270 5 2"
+  }, {
+    "item": {
+      "uid": "7ecfa6905c9f5dbb88517f832537e45a",
+      "id": 270,
+      "xnb": {
+        "raw": "Corn\/50\/10\/Basic -75\/Corn\/One of the most popular grains. The sweet, fresh cobs are a summer favorite."
+      },
+      "name": "Corn",
+      "description": "One of the most popular grains. The sweet, fresh cobs are a summer favorite.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Corn"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 9,
+    "raw": "24 5 2 254 5 2 276 5 2 270 5 2"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "e0d4e51df8e89993027e274bbbbd1f7e",
+      "id": 466,
+      "xnb": {
+        "raw": "Deluxe Speed-Gro\/40\/-300\/Basic -19\/Deluxe Speed-Gro\/Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil."
+      },
+      "name": "Deluxe Speed-Gro",
+      "description": "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Deluxe Speed-Gro"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 466 30"
+  }
+}, {
+  "uid": "4b7c3db2a60a72dadd4c17a2bd484082",
+  "raw": "Pantry\/4",
+  "id": 4,
+  "title": "Treasures",
+  "xnb": {
+    "raw": "Treasures\/O 645 3\/336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0\/4\/5"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Treasures",
+  "requirements": [{
+    "item": {
+      "uid": "3574e990f64ed20d5c1d0479f392c2c3",
+      "id": 336,
+      "xnb": {
+        "raw": "Gold Bar\/250\/-300\/Basic -15\/Gold Bar\/A bar of pure gold."
+      },
+      "name": "Gold Bar",
+      "description": "A bar of pure gold.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Gold Bar"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }, {
+    "item": {
+      "uid": "69accbee1160a492ba7fbc5ec370150b",
+      "id": 72,
+      "xnb": {
+        "raw": "Diamond\/750\/-300\/Minerals -2\/Diamond\/A rare and valuable gem."
+      },
+      "name": "Diamond",
+      "description": "A rare and valuable gem.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Diamond"
+    },
+    "quantity": 20,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }, {
+    "item": {
+      "uid": "bbeb8786863c97a33af101e9c2344600",
+      "id": 101,
+      "xnb": {
+        "raw": "Arrowhead\/40\/-300\/Arch\/Arrowhead\/A crudely fashioned point used for hunting.\/Mountain .02 Forest .02 BusStop .02\/Debris 2 30 14"
+      },
+      "name": "Arrowhead",
+      "description": "A crudely fashioned point used for hunting.",
+      "type": "Arch",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Arrowhead"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }, {
+    "item": {
+      "uid": "5b761a430e4c4fcbe1b55d3896d7b9a4",
+      "id": 521,
+      "xnb": {
+        "raw": "Warrior Ring\/1500\/-300\/Ring\/Warrior Ring\/Occasionally infuses the wearer with \"warrior energy\" after slaying a monster."
+      },
+      "name": "Warrior Ring",
+      "description": "Occasionally infuses the wearer with \"warrior energy\" after slaying a monster.",
+      "type": "Ring",
+      "category": "Object",
+      "prizeType": "R",
+      "title": "Warrior Ring"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }, {
+    "item": {
+      "uid": "08a47aff095b2bb0d81200a6600b4a78",
+      "id": 524,
+      "xnb": {
+        "raw": "Ring of Yoba\/1500\/-300\/Ring\/Ring of Yoba\/Occasionally shields the wearer from damage."
+      },
+      "name": "Ring Of Yoba",
+      "description": "Occasionally shields the wearer from damage.",
+      "type": "Ring",
+      "category": "Object",
+      "prizeType": "R",
+      "title": "Ring Of Yoba"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }, {
+    "item": {
+      "uid": "29cf6b2dd29764af0d2f3535f3aca660",
+      "id": 529,
+      "xnb": {
+        "raw": "Amethyst Ring\/200\/-300\/Ring\/Amethyst Ring\/Increases knockback by 10%."
+      },
+      "name": "Amethyst Ring",
+      "description": "Increases knockback by 10%.",
+      "type": "Ring",
+      "category": "Object",
+      "prizeType": "R",
+      "title": "Amethyst Ring"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "ef21a5812b557c3bf6ca2ff4e1f1cd9c",
+      "id": 645,
+      "xnb": {
+        "raw": "Iridium Sprinkler\/1000\/-300\/Crafting -8\/Iridium Sprinkler\/Waters the 24 adjacent tiles every morning."
+      },
+      "name": "Iridium Sprinkler",
+      "description": "Waters the 24 adjacent tiles every morning.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Iridium Sprinkler"
+    },
+    "quantity": 3,
+    "type": "O",
+    "raw": "O 645 3"
+  }
+}, {
+  "uid": "a87ecd24afcfe165b78ae2088288afd4",
+  "raw": "Pantry\/5",
+  "id": 5,
+  "title": "Artisan",
+  "xnb": {
+    "raw": "Artisan\/O 499 10\/342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0\/1\/6"
+  },
+  "lang": "en",
+  "name": "Pantry",
+  "filename": "Bundles",
+  "translation": "Artisan",
+  "requirements": [{
+    "item": {
+      "uid": "07abdb4d524f00332f3d59d16497f4b5",
+      "id": 342,
+      "xnb": {
+        "raw": "Pickles\/100\/-300\/Basic -26\/Pickles\/A jar of your home-made pickles."
+      },
+      "name": "Pickles",
+      "description": "A jar of your home-made pickles.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pickles"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "50e5ef50341c2505cf4eb4f5d2b4a9cb",
+      "id": 421,
+      "xnb": {
+        "raw": "Sunflower\/80\/18\/Basic -80\/Sunflower\/A common misconception is that the flower turns so it's always facing the sun."
+      },
+      "name": "Sunflower",
+      "description": "A common misconception is that the flower turns so it's always facing the sun.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Sunflower"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "d2e764a6aaaf0e5774201a3e900ff858",
+      "id": 591,
+      "xnb": {
+        "raw": "Tulip\/30\/18\/Basic -80\/Tulip\/The most popular spring flower. Has a very faint sweet smell."
+      },
+      "name": "Tulip",
+      "description": "The most popular spring flower. Has a very faint sweet smell.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Tulip"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "3065cad1fe0f6b18a9a6c8b3f30d43c7",
+      "id": 593,
+      "xnb": {
+        "raw": "Summer Spangle\/90\/18\/Basic -80\/Summer Spangle\/A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma."
+      },
+      "name": "Summer Spangle",
+      "description": "A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Summer Spangle"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "80fa62f42b479e97a5f97fd5bbab9b4e",
+      "id": 595,
+      "xnb": {
+        "raw": "Fairy Rose\/290\/18\/Basic -80\/Fairy Rose\/An old folk legend suggests that the sweet smell of this flower attracts fairies."
+      },
+      "name": "Fairy Rose",
+      "description": "An old folk legend suggests that the sweet smell of this flower attracts fairies.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fairy Rose"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "87d5154f8716cec4559c53cccab2e908",
+      "id": 597,
+      "xnb": {
+        "raw": "Blue Jazz\/50\/18\/Basic -80\/Blue Jazz\/The flower grows in a sphere to invite as many butterflies as possible."
+      },
+      "name": "Blue Jazz",
+      "description": "The flower grows in a sphere to invite as many butterflies as possible.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Blue Jazz"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "5bb4b81f0743afde070510577e0e1048",
+      "id": 613,
+      "xnb": {
+        "raw": "Apple\/100\/15\/Basic -79\/Apple\/A crisp fruit used for juice and cider."
+      },
+      "name": "Apple",
+      "description": "A crisp fruit used for juice and cider.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apple"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 18,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "9ba90368ac5fb7f1ff4d93ad2cb38703",
+      "id": 634,
+      "xnb": {
+        "raw": "Apricot\/50\/15\/Basic -79\/Apricot\/A tender little fruit with a rock-hard pit."
+      },
+      "name": "Apricot",
+      "description": "A tender little fruit with a rock-hard pit.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apricot"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 21,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "40b77c68916f0b777992ba5c864fe57c",
+      "id": 635,
+      "xnb": {
+        "raw": "Orange\/100\/15\/Basic -79\/Orange\/Juicy, tangy, and bursting with sweet summer aroma."
+      },
+      "name": "Orange",
+      "description": "Juicy, tangy, and bursting with sweet summer aroma.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Orange"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 24,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "1f3e4904e2075e5784a7692c3129e7c6",
+      "id": 636,
+      "xnb": {
+        "raw": "Peach\/140\/15\/Basic -79\/Peach\/It's almost fuzzy to the touch."
+      },
+      "name": "Peach",
+      "description": "It's almost fuzzy to the touch.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Peach"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 27,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "4a42bc4dbe1c78f2a1e5ae86a801e9ab",
+      "id": 637,
+      "xnb": {
+        "raw": "Pomegranate\/140\/15\/Basic -79\/Pomegranate\/Within the fruit are clusters of juicy seeds."
+      },
+      "name": "Pomegranate",
+      "description": "Within the fruit are clusters of juicy seeds.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pomegranate"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 30,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }, {
+    "item": {
+      "uid": "5157264497e5834bbae42d6093da6cd1",
+      "id": 638,
+      "xnb": {
+        "raw": "Cherry\/80\/15\/Basic -79\/Cherry\/It's popular, and ripens sooner than most other fruits."
+      },
+      "name": "Cherry",
+      "description": "It's popular, and ripens sooner than most other fruits.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cherry"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 33,
+    "raw": "342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "bc6b8ce487988ff5388e4eee075f7965",
+      "id": 499,
+      "xnb": {
+        "raw": "Ancient Seeds\/30\/-300\/Seeds -74\/Ancient Seeds\/Could these still grow?"
+      },
+      "name": "Ancient Seeds",
+      "description": "Could these still grow?",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Ancient Seeds"
+    },
+    "quantity": 10,
+    "type": "O",
+    "raw": "O 499 10"
+  }
+}, {
+  "uid": "b9b63cf679e00ad946986d2dd097e187",
+  "raw": "Fish Tank\/6",
+  "id": 6,
+  "title": "Booze",
+  "xnb": {
+    "raw": "Booze\/O 681 5\/304 5 2 348 5 0 303 5 0 346 10 0\/6"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Booze",
+  "requirements": [{
+    "item": {
+      "uid": "b387a28fbc4a75dc389b20f351a48743",
+      "id": 304,
+      "xnb": {
+        "raw": "Hops\/25\/18\/Basic -75\/Hops\/A bitter, tangy flower used to flavor beer."
+      },
+      "name": "Hops",
+      "description": "A bitter, tangy flower used to flavor beer.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hops"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 0,
+    "raw": "304 5 2 348 5 0 303 5 0 346 10 0"
+  }, {
+    "item": {
+      "uid": "adcde39a819f9a589282aec684499654",
+      "id": 348,
+      "xnb": {
+        "raw": "Wine\/400\/20\/Basic -26\/Wine\/Drink in moderation.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Wine",
+      "description": "Drink in moderation.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wine"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "304 5 2 348 5 0 303 5 0 346 10 0"
+  }, {
+    "item": {
+      "uid": "6ec7005308a3c2711561d81c1fdfc9ad",
+      "id": 303,
+      "xnb": {
+        "raw": "Pale Ale\/300\/20\/Basic -26\/Pale Ale\/Drink in moderation.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Pale Ale",
+      "description": "Drink in moderation.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pale Ale"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "304 5 2 348 5 0 303 5 0 346 10 0"
+  }, {
+    "item": {
+      "uid": "ca0681a11f0f58b75197d4adfa2f1674",
+      "id": 346,
+      "xnb": {
+        "raw": "Beer\/200\/20\/Basic -26\/Beer\/Drink in moderation.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Beer",
+      "description": "Drink in moderation.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Beer"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "304 5 2 348 5 0 303 5 0 346 10 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "fc66aa29ec25d32cad7a033fd1ea4f13",
+      "id": 681,
+      "xnb": {
+        "raw": "Rain Totem\/20\/-300\/Crafting\/Rain Totem\/Activate to greatly increase the chance for rain tomorrow. Consumed on use."
+      },
+      "name": "Rain Totem",
+      "description": "Activate to greatly increase the chance for rain tomorrow. Consumed on use.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Rain Totem"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 681 5"
+  }
+}, {
+  "uid": "9c792171e60b87ce1d33c4fb309c872f",
+  "raw": "Fish Tank\/7",
+  "id": 7,
+  "title": "Minerals",
+  "xnb": {
+    "raw": "Minerals\/O 689 5\/565 1 0 540 1 0 542 1 0 548 1 0\/0"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Minerals",
+  "requirements": [{
+    "item": {
+      "uid": "ebf3e0aedc9a949e77cd90f977c24b43",
+      "id": 565,
+      "xnb": {
+        "raw": "Fire Opal\/350\/-300\/Minerals -12\/Fire Opal\/A rare variety of opal, named for its red spots."
+      },
+      "name": "Fire Opal",
+      "description": "A rare variety of opal, named for its red spots.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fire Opal"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "565 1 0 540 1 0 542 1 0 548 1 0"
+  }, {
+    "item": {
+      "uid": "a709595c85a2ec7846dd4a578ae13063",
+      "id": 540,
+      "xnb": {
+        "raw": "Baryte\/50\/-300\/Minerals -12\/Baryte\/The best specimens resemble a desert rose."
+      },
+      "name": "Baryte",
+      "description": "The best specimens resemble a desert rose.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Baryte"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "565 1 0 540 1 0 542 1 0 548 1 0"
+  }, {
+    "item": {
+      "uid": "62a50bc11039f439fa8818b71bf929ce",
+      "id": 542,
+      "xnb": {
+        "raw": "Calcite\/75\/-300\/Minerals -12\/Calcite\/This yellow crystal is speckled with shimmering nodules."
+      },
+      "name": "Calcite",
+      "description": "This yellow crystal is speckled with shimmering nodules.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Calcite"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "565 1 0 540 1 0 542 1 0 548 1 0"
+  }, {
+    "item": {
+      "uid": "5f5fbb3b4e37c96177f0168807d22f18",
+      "id": 548,
+      "xnb": {
+        "raw": "Jamborite\/150\/-300\/Minerals -12\/Jamborite\/The crystals are so tightly packed it almost looks fuzzy."
+      },
+      "name": "Jamborite",
+      "description": "The crystals are so tightly packed it almost looks fuzzy.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Jamborite"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "565 1 0 540 1 0 542 1 0 548 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "e3f0d46532481bff5a99dd95f4807dea",
+      "id": 689,
+      "xnb": {
+        "raw": "Warp Totem: Mountains\/20\/-300\/Crafting\/Warp Totem: Mountains\/Warp directly to the mountains. Consumed on use."
+      },
+      "name": "Warp Totem: Mountains",
+      "description": "Warp directly to the mountains. Consumed on use.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Warp Totem: Mountains"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 689 5"
+  }
+}, {
+  "uid": "96e5532bb3a0ee4db3c9017df00b798f",
+  "raw": "Fish Tank\/8",
+  "id": 8,
+  "title": "Yummy Food",
+  "xnb": {
+    "raw": "Yummy Food\/O 688 5\/238 1 0 244 1 0 606 1 0 611 1 0\/5"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Yummy Food",
+  "requirements": [{
+    "item": {
+      "uid": "46f264f48780c9844a4604dbddcaabba",
+      "id": 238,
+      "xnb": {
+        "raw": "Cranberry Sauce\/120\/50\/Cooking -7\/Cranberry Sauce\/A festive treat.\/food\/0 0 2 0 0 0 0 0 0 0 0\/300"
+      },
+      "name": "Cranberry Sauce",
+      "description": "A festive treat.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cranberry Sauce"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "238 1 0 244 1 0 606 1 0 611 1 0"
+  }, {
+    "item": {
+      "uid": "0b27a63e1984bfd309fc0853fb3f2898",
+      "id": 244,
+      "xnb": {
+        "raw": "Roots Platter\/100\/50\/Cooking -7\/Roots Platter\/This'll get you digging for more.\/food\/0 0 0 0 0 0 0 0 0 0 0 3\/480"
+      },
+      "name": "Roots Platter",
+      "description": "This'll get you digging for more.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Roots Platter"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "238 1 0 244 1 0 606 1 0 611 1 0"
+  }, {
+    "item": {
+      "uid": "77a065c62a8ec119209a47583f455cde",
+      "id": 606,
+      "xnb": {
+        "raw": "Stir Fry\/335\/80\/Cooking -7\/Stir Fry\/Julienned vegetables on a bed of rice.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Stir Fry",
+      "description": "Julienned vegetables on a bed of rice.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Stir Fry"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "238 1 0 244 1 0 606 1 0 611 1 0"
+  }, {
+    "item": {
+      "uid": "68e2f218393dfe81bfbd8b9c09bc16a9",
+      "id": 611,
+      "xnb": {
+        "raw": "Blackberry Cobbler\/260\/70\/Cooking -7\/Blackberry Cobbler\/There's nothing quite like it.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Blackberry Cobbler",
+      "description": "There's nothing quite like it.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Blackberry Cobbler"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "238 1 0 244 1 0 606 1 0 611 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "ec1d18c3d82899af6f89878b9a0256fd",
+      "id": 688,
+      "xnb": {
+        "raw": "Warp Totem: Farm\/20\/-300\/Crafting\/Warp Totem: Farm\/Warp directly to your house. Consumed on use."
+      },
+      "name": "Warp Totem: Farm",
+      "description": "Warp directly to your house. Consumed on use.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Warp Totem: Farm"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 688 5"
+  }
+}, {
+  "uid": "2cbe4fc9a688f0f7a41d63890927bf3b",
+  "raw": "Fish Tank\/9",
+  "id": 9,
+  "title": "Spicy Salad",
+  "xnb": {
+    "raw": "Spicy Salad\/O 349 10\/260 5 2 270 5 2 196 50 0\/1"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Spicy Salad",
+  "requirements": [{
+    "item": {
+      "uid": "0bf4c19ac1f6c72c2d98be234dd57dc1",
+      "id": 260,
+      "xnb": {
+        "raw": "Hot Pepper\/40\/5\/Basic -79\/Hot Pepper\/Fiery hot with a hint of sweetness."
+      },
+      "name": "Hot Pepper",
+      "description": "Fiery hot with a hint of sweetness.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hot Pepper"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 0,
+    "raw": "260 5 2 270 5 2 196 50 0"
+  }, {
+    "item": {
+      "uid": "7ecfa6905c9f5dbb88517f832537e45a",
+      "id": 270,
+      "xnb": {
+        "raw": "Corn\/50\/10\/Basic -75\/Corn\/One of the most popular grains. The sweet, fresh cobs are a summer favorite."
+      },
+      "name": "Corn",
+      "description": "One of the most popular grains. The sweet, fresh cobs are a summer favorite.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Corn"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 2,
+      "name": "Gold"
+    },
+    "sort": 3,
+    "raw": "260 5 2 270 5 2 196 50 0"
+  }, {
+    "item": {
+      "uid": "0d83c0e6b3d010a65a7b7ddc2432bcdb",
+      "id": 196,
+      "xnb": {
+        "raw": "Salad\/110\/45\/Cooking -7\/Salad\/A healthy garden salad.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Salad",
+      "description": "A healthy garden salad.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Salad"
+    },
+    "quantity": 50,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "260 5 2 270 5 2 196 50 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "039a3f15dd439e113cc654257bc8e9b5",
+      "id": 349,
+      "xnb": {
+        "raw": "Energy Tonic\/500\/200\/Crafting\/Energy Tonic\/Restores a lot of energy.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Energy Tonic",
+      "description": "Restores a lot of energy.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Energy Tonic"
+    },
+    "quantity": 10,
+    "type": "O",
+    "raw": "O 349 10"
+  }
+}, {
+  "uid": "7b65a7a1941f723a2ec69255453931eb",
+  "raw": "Fish Tank\/10",
+  "id": 10,
+  "title": "Craftable",
+  "xnb": {
+    "raw": "Craftable\/O 298 50\/8 10 0 15 10 0 463 5 0 464 5 0\/4"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Craftable",
+  "requirements": [{
+    "item": {
+      "uid": "b988e2fe09a768cc298e3730a253d888",
+      "id": 8,
+      "xnb": {
+        "raw": "Scarecrow\/50\/-300\/Crafting -9\/Prevents crows from attacking your crops. Has a limited radius (about 8 \"tiles\").\/true\/true\/0"
+      },
+      "name": "Scarecrow",
+      "description": "Prevents crows from attacking your crops. Has a limited radius (about 8 \"tiles\").",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Scarecrow"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "8 10 0 15 10 0 463 5 0 464 5 0"
+  }, {
+    "item": {
+      "uid": "76f1b4302fed8a2061da2ff7a49e3413",
+      "id": 15,
+      "xnb": {
+        "raw": "Preserves Jar\/50\/-300\/Crafting -9\/Turns vegetables into pickles and fruit into jam.\/true\/true\/0"
+      },
+      "name": "Preserves Jar",
+      "description": "Turns vegetables into pickles and fruit into jam.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Preserves Jar"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "8 10 0 15 10 0 463 5 0 464 5 0"
+  }, {
+    "item": {
+      "uid": "00a28acb8208b644dc4e6adc47e3f99f",
+      "id": 463,
+      "xnb": {
+        "raw": "Drum Block\/100\/-300\/Crafting\/Drum Block\/Plays a drum sound when you walk past."
+      },
+      "name": "Drum Block",
+      "description": "Plays a drum sound when you walk past.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Drum Block"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "8 10 0 15 10 0 463 5 0 464 5 0"
+  }, {
+    "item": {
+      "uid": "310502af706ef3a6ea4489edf6763edc",
+      "id": 464,
+      "xnb": {
+        "raw": "Flute Block\/100\/-300\/Crafting\/Flute Block\/Plays a flute sound when you walk past."
+      },
+      "name": "Flute Block",
+      "description": "Plays a flute sound when you walk past.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Flute Block"
+    },
+    "quantity": 5,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "8 10 0 15 10 0 463 5 0 464 5 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "74c0ad2e608b7dc7abf3b1faa7a659ac",
+      "id": 298,
+      "xnb": {
+        "raw": "Hardwood Fence\/10\/-300\/Crafting -8\/Hardwood Fence\/The most durable type of fence."
+      },
+      "name": "Hardwood Fence",
+      "description": "The most durable type of fence.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hardwood Fence"
+    },
+    "quantity": 50,
+    "type": "O",
+    "raw": "O 298 50"
+  }
+}, {
+  "uid": "db859653dd6048277e21ec3827482b00",
+  "raw": "Fish Tank\/11",
+  "id": 11,
+  "title": "Seeds",
+  "xnb": {
+    "raw": "Seeds\/O 268 10\/632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0\/1\/5"
+  },
+  "lang": "en",
+  "name": "Fish Tank",
+  "filename": "Bundles",
+  "translation": "Seeds",
+  "requirements": [{
+    "item": {
+      "uid": "98d4d5b407ae6a72f2d974f6ba166893",
+      "id": 632,
+      "xnb": {
+        "raw": "Pomegranate Sapling\/1500\/-300\/Basic -74\/Pomegranate Sapling\/Takes 28 days to produce a mature Pomegranate tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Pomegranate Sapling",
+      "description": "Takes 28 days to produce a mature Pomegranate tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pomegranate Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "034e5a51679bb95f4d6dda9e2963f7dd",
+      "id": 628,
+      "xnb": {
+        "raw": "Cherry Sapling\/850\/-300\/Basic -74\/Cherry Sapling\/Takes 28 days to produce a mature cherry tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Cherry Sapling",
+      "description": "Takes 28 days to produce a mature cherry tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cherry Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "eff663a07123f1376cdd2856b9d2a1c4",
+      "id": 629,
+      "xnb": {
+        "raw": "Apricot Sapling\/500\/-300\/Basic -74\/Apricot Sapling\/Takes 28 days to produce a mature Apricot tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Apricot Sapling",
+      "description": "Takes 28 days to produce a mature Apricot tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apricot Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "db5f15c540f04907e94c47d054b58386",
+      "id": 630,
+      "xnb": {
+        "raw": "Orange Sapling\/1000\/-300\/Basic -74\/Orange Sapling\/Takes 28 days to produce a mature Orange tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Orange Sapling",
+      "description": "Takes 28 days to produce a mature Orange tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Orange Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "183d694b2f7eb4fa5ed83a071c14ab48",
+      "id": 631,
+      "xnb": {
+        "raw": "Peach Sapling\/1500\/-300\/Basic -74\/Peach Sapling\/Takes 28 days to produce a mature Peach tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Peach Sapling",
+      "description": "Takes 28 days to produce a mature Peach tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Peach Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "e233c61f1c7e9b245667dde036644f3a",
+      "id": 633,
+      "xnb": {
+        "raw": "Apple Sapling\/1000\/-300\/Basic -74\/Apple Sapling\/Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Apple Sapling",
+      "description": "Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apple Sapling"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "85d712a4d78ba16f591e0b2cea82082c",
+      "id": 495,
+      "xnb": {
+        "raw": "Spring Seeds\/35\/-300\/Seeds -74\/Spring Seeds\/An assortment of wild spring seeds."
+      },
+      "name": "Spring Seeds",
+      "description": "An assortment of wild spring seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Spring Seeds"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 18,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "2c8c19f65cf6fc46eba08a7fc217235d",
+      "id": 496,
+      "xnb": {
+        "raw": "Summer Seeds\/55\/-300\/Seeds -74\/Summer Seeds\/An assortment of wild summer seeds."
+      },
+      "name": "Summer Seeds",
+      "description": "An assortment of wild summer seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Summer Seeds"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 21,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "ea7dd77a5c9528ba94639c2d44e85d27",
+      "id": 497,
+      "xnb": {
+        "raw": "Fall Seeds\/45\/-300\/Seeds -74\/Fall Seeds\/An assortment of wild fall seeds."
+      },
+      "name": "Fall Seeds",
+      "description": "An assortment of wild fall seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fall Seeds"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 24,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }, {
+    "item": {
+      "uid": "b8cbe5b63ea27c3b0de04a4b4c387762",
+      "id": 498,
+      "xnb": {
+        "raw": "Winter Seeds\/30\/-300\/Seeds -74\/Winter Seeds\/An assortment of wild winter seeds."
+      },
+      "name": "Winter Seeds",
+      "description": "An assortment of wild winter seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Winter Seeds"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 27,
+    "raw": "632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "20d77f1ae4ac524673221b6421b64043",
+      "id": 268,
+      "xnb": {
+        "raw": "Starfruit\/750\/50\/Basic -79\/Starfruit\/An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone."
+      },
+      "name": "Starfruit",
+      "description": "An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Starfruit"
+    },
+    "quantity": 10,
+    "type": "O",
+    "raw": "O 268 10"
+  }
+}, {
+  "uid": "cea4e5e60282c56fa9c598792440fc5a",
+  "raw": "Crafts Room\/13",
+  "id": 13,
+  "title": "Spring Foraging",
+  "xnb": {
+    "raw": "Spring Foraging\/O 495 30\/16 1 0 18 1 0 20 1 0 22 1 0\/0"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Spring Foraging",
+  "requirements": [{
+    "item": {
+      "uid": "dc9c4ec949fbd0334b247eab432a7b87",
+      "id": 16,
+      "xnb": {
+        "raw": "Wild Horseradish\/50\/5\/Basic -81\/Wild Horseradish\/A spicy root found in the spring."
+      },
+      "name": "Wild Horseradish",
+      "description": "A spicy root found in the spring.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wild Horseradish"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "16 1 0 18 1 0 20 1 0 22 1 0"
+  }, {
+    "item": {
+      "uid": "6980a4d8514182f2ae82946f96182caf",
+      "id": 18,
+      "xnb": {
+        "raw": "Daffodil\/30\/0\/Basic -81\/Daffodil\/A traditional spring flower that makes a nice gift."
+      },
+      "name": "Daffodil",
+      "description": "A traditional spring flower that makes a nice gift.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Daffodil"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "16 1 0 18 1 0 20 1 0 22 1 0"
+  }, {
+    "item": {
+      "uid": "c036100499afb0b07dc4ab6725045a46",
+      "id": 20,
+      "xnb": {
+        "raw": "Leek\/60\/16\/Basic -81\/Leek\/A tasty relative of the onion."
+      },
+      "name": "Leek",
+      "description": "A tasty relative of the onion.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Leek"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "16 1 0 18 1 0 20 1 0 22 1 0"
+  }, {
+    "item": {
+      "uid": "f367c707dc92887d0a5a560006c0ea73",
+      "id": 22,
+      "xnb": {
+        "raw": "Dandelion\/40\/10\/Basic -81\/Dandelion\/Not the prettiest flower, but the leaves make a good salad."
+      },
+      "name": "Dandelion",
+      "description": "Not the prettiest flower, but the leaves make a good salad.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Dandelion"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "16 1 0 18 1 0 20 1 0 22 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "85d712a4d78ba16f591e0b2cea82082c",
+      "id": 495,
+      "xnb": {
+        "raw": "Spring Seeds\/35\/-300\/Seeds -74\/Spring Seeds\/An assortment of wild spring seeds."
+      },
+      "name": "Spring Seeds",
+      "description": "An assortment of wild spring seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Spring Seeds"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 495 30"
+  }
+}, {
+  "uid": "304bb9957af4474c5e26844aba428e8f",
+  "raw": "Crafts Room\/14",
+  "id": 14,
+  "title": "Summer Foraging",
+  "xnb": {
+    "raw": "Summer Foraging\/O 496 30\/396 1 0 398 1 0 402 1 0\/3"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Summer Foraging",
+  "requirements": [{
+    "item": {
+      "uid": "7f2325ac5f9fc36c61eb5db64061468d",
+      "id": 396,
+      "xnb": {
+        "raw": "Spice Berry\/80\/10\/Basic -79\/Spice Berry\/It fills the air with a pungent aroma."
+      },
+      "name": "Spice Berry",
+      "description": "It fills the air with a pungent aroma.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Spice Berry"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "396 1 0 398 1 0 402 1 0"
+  }, {
+    "item": {
+      "uid": "af0ec9dd2817572175e3ce252fbc4d12",
+      "id": 398,
+      "xnb": {
+        "raw": "Grape\/80\/15\/Basic -79\/Grape\/A sweet cluster of fruit."
+      },
+      "name": "Grape",
+      "description": "A sweet cluster of fruit.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Grape"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "396 1 0 398 1 0 402 1 0"
+  }, {
+    "item": {
+      "uid": "1904b8fbd586b21563c643d394f54f84",
+      "id": 402,
+      "xnb": {
+        "raw": "Sweet Pea\/50\/0\/Basic -80\/Sweet Pea\/A fragrant summer flower."
+      },
+      "name": "Sweet Pea",
+      "description": "A fragrant summer flower.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Sweet Pea"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "396 1 0 398 1 0 402 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "2c8c19f65cf6fc46eba08a7fc217235d",
+      "id": 496,
+      "xnb": {
+        "raw": "Summer Seeds\/55\/-300\/Seeds -74\/Summer Seeds\/An assortment of wild summer seeds."
+      },
+      "name": "Summer Seeds",
+      "description": "An assortment of wild summer seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Summer Seeds"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 496 30"
+  }
+}, {
+  "uid": "e09e6729b952277ad77e91ac2af8d025",
+  "raw": "Crafts Room\/15",
+  "id": 15,
+  "title": "Fall Foraging",
+  "xnb": {
+    "raw": "Fall Foraging\/O 497 30\/404 1 0 406 1 0 408 1 0 410 1 0\/2"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Fall Foraging",
+  "requirements": [{
+    "item": {
+      "uid": "1fd9a3073a2ead017af7cdffdfb811fb",
+      "id": 404,
+      "xnb": {
+        "raw": "Common Mushroom\/40\/15\/Basic -81\/Common Mushroom\/Slightly nutty, with good texture."
+      },
+      "name": "Common Mushroom",
+      "description": "Slightly nutty, with good texture.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Common Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "404 1 0 406 1 0 408 1 0 410 1 0"
+  }, {
+    "item": {
+      "uid": "b41f8f2919857fb885addf28177a3531",
+      "id": 406,
+      "xnb": {
+        "raw": "Wild Plum\/80\/10\/Basic -79\/Wild Plum\/Tart and juicy with a pungent aroma."
+      },
+      "name": "Wild Plum",
+      "description": "Tart and juicy with a pungent aroma.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wild Plum"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "404 1 0 406 1 0 408 1 0 410 1 0"
+  }, {
+    "item": {
+      "uid": "4f3de968a86be170de3abc535b8d851f",
+      "id": 408,
+      "xnb": {
+        "raw": "Hazelnut\/90\/12\/Basic -81\/Hazelnut\/That's one big hazelnut!"
+      },
+      "name": "Hazelnut",
+      "description": "That's one big hazelnut!",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hazelnut"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "404 1 0 406 1 0 408 1 0 410 1 0"
+  }, {
+    "item": {
+      "uid": "ad2ac05d4dd32c80756fa5c0de57beba",
+      "id": 410,
+      "xnb": {
+        "raw": "Blackberry\/20\/10\/Basic -79\/Blackberry\/An early-fall treat."
+      },
+      "name": "Blackberry",
+      "description": "An early-fall treat.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Blackberry"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "404 1 0 406 1 0 408 1 0 410 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "ea7dd77a5c9528ba94639c2d44e85d27",
+      "id": 497,
+      "xnb": {
+        "raw": "Fall Seeds\/45\/-300\/Seeds -74\/Fall Seeds\/An assortment of wild fall seeds."
+      },
+      "name": "Fall Seeds",
+      "description": "An assortment of wild fall seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fall Seeds"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 497 30"
+  }
+}, {
+  "uid": "f8019ae1777851098267f2c1dacda975",
+  "raw": "Crafts Room\/16",
+  "id": 16,
+  "title": "Winter Foraging",
+  "xnb": {
+    "raw": "Winter Foraging\/O 498 30\/412 1 0 414 1 0 416 1 0 418 1 0\/6"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Winter Foraging",
+  "requirements": [{
+    "item": {
+      "uid": "79dbd527a3fdb76cb5c21ff940102de8",
+      "id": 412,
+      "xnb": {
+        "raw": "Winter Root\/70\/10\/Basic -81\/Winter Root\/A starchy tuber."
+      },
+      "name": "Winter Root",
+      "description": "A starchy tuber.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Winter Root"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "412 1 0 414 1 0 416 1 0 418 1 0"
+  }, {
+    "item": {
+      "uid": "491b5895f27f50d8ff263c277a210614",
+      "id": 414,
+      "xnb": {
+        "raw": "Crystal Fruit\/150\/25\/Basic -79\/Crystal Fruit\/A delicate fruit that pops up from the snow."
+      },
+      "name": "Crystal Fruit",
+      "description": "A delicate fruit that pops up from the snow.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Crystal Fruit"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "412 1 0 414 1 0 416 1 0 418 1 0"
+  }, {
+    "item": {
+      "uid": "4e03e8a71d844fd10242b4bf4f4702cb",
+      "id": 416,
+      "xnb": {
+        "raw": "Snow Yam\/100\/12\/Basic -81\/Snow Yam\/This little yam was hiding beneath the snow."
+      },
+      "name": "Snow Yam",
+      "description": "This little yam was hiding beneath the snow.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Snow Yam"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "412 1 0 414 1 0 416 1 0 418 1 0"
+  }, {
+    "item": {
+      "uid": "d97f49bc200b7dff8d16b74eff1ad4ac",
+      "id": 418,
+      "xnb": {
+        "raw": "Crocus\/60\/0\/Basic -80\/Crocus\/A flower that can bloom in the winter."
+      },
+      "name": "Crocus",
+      "description": "A flower that can bloom in the winter.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Crocus"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "412 1 0 414 1 0 416 1 0 418 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "b8cbe5b63ea27c3b0de04a4b4c387762",
+      "id": 498,
+      "xnb": {
+        "raw": "Winter Seeds\/30\/-300\/Seeds -74\/Winter Seeds\/An assortment of wild winter seeds."
+      },
+      "name": "Winter Seeds",
+      "description": "An assortment of wild winter seeds.",
+      "type": "Seeds",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Winter Seeds"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 498 30"
+  }
+}, {
+  "uid": "150e978191e464c69bcea2be01c380dd",
+  "raw": "Crafts Room\/17",
+  "id": 17,
+  "title": "Construction",
+  "xnb": {
+    "raw": "Construction\/BO 114 1\/388 99 0 388 99 0 390 99 0 709 10 0\/4"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Construction",
+  "requirements": [{
+    "item": {
+      "uid": "8906932690e0e9c6f70fa4219f5996f8",
+      "id": 388,
+      "xnb": {
+        "raw": "Wood\/2\/-300\/Basic -16\/Wood\/A sturdy, yet flexible plant material with a wide variety of uses."
+      },
+      "name": "Wood",
+      "description": "A sturdy, yet flexible plant material with a wide variety of uses.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wood"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "388 99 0 388 99 0 390 99 0 709 10 0"
+  }, {
+    "item": {
+      "uid": "8906932690e0e9c6f70fa4219f5996f8",
+      "id": 388,
+      "xnb": {
+        "raw": "Wood\/2\/-300\/Basic -16\/Wood\/A sturdy, yet flexible plant material with a wide variety of uses."
+      },
+      "name": "Wood",
+      "description": "A sturdy, yet flexible plant material with a wide variety of uses.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wood"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "388 99 0 388 99 0 390 99 0 709 10 0"
+  }, {
+    "item": {
+      "uid": "b1078706cc603e6184095786dd3a24b8",
+      "id": 390,
+      "xnb": {
+        "raw": "Stone\/2\/-300\/Basic -16\/Stone\/A common material with many uses in crafting and building."
+      },
+      "name": "Stone",
+      "description": "A common material with many uses in crafting and building.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Stone"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "388 99 0 388 99 0 390 99 0 709 10 0"
+  }, {
+    "item": {
+      "uid": "d023d24579a4fe7cdf6f0bbad3fd65d2",
+      "id": 709,
+      "xnb": {
+        "raw": "Hardwood\/15\/-300\/Basic -16\/Hardwood\/A special kind of wood with superior strength and beauty."
+      },
+      "name": "Hardwood",
+      "description": "A special kind of wood with superior strength and beauty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hardwood"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "388 99 0 388 99 0 390 99 0 709 10 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "dd15e55f791e5ecb406983dbd2d4af2c",
+      "id": 114,
+      "xnb": {
+        "raw": "Charcoal Kiln\/0\/-300\/Crafting -9\/Turns 10 pieces of wood into one piece of coal.\/true\/true\/0"
+      },
+      "name": "Charcoal Kiln",
+      "description": "Turns 10 pieces of wood into one piece of coal.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Charcoal Kiln"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 114 1"
+  }
+}, {
+  "uid": "11c170f3e0a2ba2ec7e9964eb795ecbc",
+  "raw": "Crafts Room\/19",
+  "id": 19,
+  "title": "Exotic Foraging",
+  "xnb": {
+    "raw": "Exotic Foraging\/O 235 5\/88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0\/1\/5"
+  },
+  "lang": "en",
+  "name": "Crafts Room",
+  "filename": "Bundles",
+  "translation": "Exotic Foraging",
+  "requirements": [{
+    "item": {
+      "uid": "ff1d1ea74f8511633a1a97a6737190b2",
+      "id": 88,
+      "xnb": {
+        "raw": "Coconut\/100\/-300\/Basic -79\/Coconut\/A seed of the coconut palm. It has many culinary uses."
+      },
+      "name": "Coconut",
+      "description": "A seed of the coconut palm. It has many culinary uses.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Coconut"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "6c61b12fca4f2e116dc264040091c6c2",
+      "id": 90,
+      "xnb": {
+        "raw": "Cactus Fruit\/75\/30\/Basic -79\/Cactus Fruit\/The sweet fruit of the prickly pear cactus."
+      },
+      "name": "Cactus Fruit",
+      "description": "The sweet fruit of the prickly pear cactus.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cactus Fruit"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "c199fd70bbc9c94ce28d194c62359060",
+      "id": 78,
+      "xnb": {
+        "raw": "Cave Carrot\/25\/12\/Basic -81\/Cave Carrot\/A starchy snack found in caves. It helps miners work longer."
+      },
+      "name": "Cave Carrot",
+      "description": "A starchy snack found in caves. It helps miners work longer.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Cave Carrot"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "e21b3d8c1c5bb2133f518a8e4e0d9314",
+      "id": 420,
+      "xnb": {
+        "raw": "Red Mushroom\/75\/-20\/Basic -81\/Red Mushroom\/A spotted mushroom sometimes found in caves."
+      },
+      "name": "Red Mushroom",
+      "description": "A spotted mushroom sometimes found in caves.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Red Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "18a023ed6b1d059ee2dd962d3bfef588",
+      "id": 422,
+      "xnb": {
+        "raw": "Purple Mushroom\/250\/50\/Basic -81\/Purple Mushroom\/A rare mushroom found deep in caves."
+      },
+      "name": "Purple Mushroom",
+      "description": "A rare mushroom found deep in caves.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Purple Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "582d574d43d352c881264da8a0acefb9",
+      "id": 724,
+      "xnb": {
+        "raw": "Maple Syrup\/200\/20\/Basic -27\/Maple Syrup\/A sweet syrup with a unique flavor.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Maple Syrup",
+      "description": "A sweet syrup with a unique flavor.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Maple Syrup"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "75b945e8d3f32785b0d1a64b9f907db1",
+      "id": 725,
+      "xnb": {
+        "raw": "Oak Resin\/150\/-300\/Basic -27\/Oak Resin\/A sticky, fragrant substance derived from oak sap."
+      },
+      "name": "Oak Resin",
+      "description": "A sticky, fragrant substance derived from oak sap.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Oak Resin"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 18,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "47689864f7fd5aab5329df7eb31b7658",
+      "id": 726,
+      "xnb": {
+        "raw": "Pine Tar\/100\/-300\/Basic -27\/Pine Tar\/A pungent substance derived from pine sap."
+      },
+      "name": "Pine Tar",
+      "description": "A pungent substance derived from pine sap.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pine Tar"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 21,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }, {
+    "item": {
+      "uid": "2f9863f4e0f22472080d2c588ee5bd38",
+      "id": 257,
+      "xnb": {
+        "raw": "Morel\/150\/8\/Basic -81\/Morel\/Sought after for its unique nutty flavor."
+      },
+      "name": "Morel",
+      "description": "Sought after for its unique nutty flavor.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Morel"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 24,
+    "raw": "88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "d0d675d04976cdf2496d00c1922e1e02",
+      "id": 235,
+      "xnb": {
+        "raw": "Autumn's Bounty\/350\/88\/Cooking -7\/Autumn's Bounty\/A taste of the season.\/food\/0 0 0 0 0 2 0 0 0 0 2\/660"
+      },
+      "name": "Autumn's Bounty",
+      "description": "A taste of the season.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Autumn's Bounty"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 235 5"
+  }
+}, {
+  "uid": "04c68652978d764296f8333ab5ab36c0",
+  "raw": "Boiler Room\/20",
+  "id": 20,
+  "title": "Blacksmith's",
+  "xnb": {
+    "raw": "Blacksmith's\/BO 13 1\/334 1 0 335 1 0 336 1 0\/2"
+  },
+  "lang": "en",
+  "name": "Boiler Room",
+  "filename": "Bundles",
+  "translation": "Blacksmith's",
+  "requirements": [{
+    "item": {
+      "uid": "e3231da3230caf918863794f1695ac30",
+      "id": 334,
+      "xnb": {
+        "raw": "Copper Bar\/60\/-300\/Basic -15\/Copper Bar\/A bar of pure copper."
+      },
+      "name": "Copper Bar",
+      "description": "A bar of pure copper.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Copper Bar"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "334 1 0 335 1 0 336 1 0"
+  }, {
+    "item": {
+      "uid": "dd6b6e8ddd97c6ac5b5b8b106d50e30b",
+      "id": 335,
+      "xnb": {
+        "raw": "Iron Bar\/120\/-300\/Basic -15\/Iron Bar\/A bar of pure iron."
+      },
+      "name": "Iron Bar",
+      "description": "A bar of pure iron.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Iron Bar"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "334 1 0 335 1 0 336 1 0"
+  }, {
+    "item": {
+      "uid": "3574e990f64ed20d5c1d0479f392c2c3",
+      "id": 336,
+      "xnb": {
+        "raw": "Gold Bar\/250\/-300\/Basic -15\/Gold Bar\/A bar of pure gold."
+      },
+      "name": "Gold Bar",
+      "description": "A bar of pure gold.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Gold Bar"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "334 1 0 335 1 0 336 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "40df6c04adf51ac2e2536edc82e25f77",
+      "id": 13,
+      "xnb": {
+        "raw": "Furnace\/50\/-300\/Crafting -9\/Turns ore and coal into metal bars.\/true\/true\/0"
+      },
+      "name": "Furnace",
+      "description": "Turns ore and coal into metal bars.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Furnace"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 13 1"
+  }
+}, {
+  "uid": "51d380a7d71ce7b9bc973c94ad8d09bf",
+  "raw": "Boiler Room\/21",
+  "id": 21,
+  "title": "Geologist's",
+  "xnb": {
+    "raw": "Geologist's\/O 749 5\/80 1 0 86 1 0 84 1 0 82 1 0\/1"
+  },
+  "lang": "en",
+  "name": "Boiler Room",
+  "filename": "Bundles",
+  "translation": "Geologist's",
+  "requirements": [{
+    "item": {
+      "uid": "e50547dcd313603202b0c52f7587e90d",
+      "id": 80,
+      "xnb": {
+        "raw": "Quartz\/25\/-300\/Minerals -2\/Quartz\/A clear crystal commonly found in caves and mines."
+      },
+      "name": "Quartz",
+      "description": "A clear crystal commonly found in caves and mines.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Quartz"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "80 1 0 86 1 0 84 1 0 82 1 0"
+  }, {
+    "item": {
+      "uid": "98537d4ea1a6acce81bf4042b6f0a08b",
+      "id": 86,
+      "xnb": {
+        "raw": "Earth Crystal\/50\/-300\/Minerals -2\/Earth Crystal\/A resinous substance found near the surface."
+      },
+      "name": "Earth Crystal",
+      "description": "A resinous substance found near the surface.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Earth Crystal"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "80 1 0 86 1 0 84 1 0 82 1 0"
+  }, {
+    "item": {
+      "uid": "7c4f20fff64690f809f3277dd1a64d1b",
+      "id": 84,
+      "xnb": {
+        "raw": "Frozen Tear\/75\/-300\/Minerals -2\/Frozen Tear\/A crystal fabled to be the frozen tears of a yeti."
+      },
+      "name": "Frozen Tear",
+      "description": "A crystal fabled to be the frozen tears of a yeti.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Frozen Tear"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "80 1 0 86 1 0 84 1 0 82 1 0"
+  }, {
+    "item": {
+      "uid": "10348815d32980a9b1733846b8aa9ea8",
+      "id": 82,
+      "xnb": {
+        "raw": "Fire Quartz\/100\/-300\/Minerals -2\/Fire Quartz\/A glowing red crystal commonly found near hot lava."
+      },
+      "name": "Fire Quartz",
+      "description": "A glowing red crystal commonly found near hot lava.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fire Quartz"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "80 1 0 86 1 0 84 1 0 82 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "9d5843e0aad8066410b85c30c58d9585",
+      "id": 749,
+      "xnb": {
+        "raw": "Omni Geode\/0\/-300\/Basic\/Omni Geode\/A blacksmith can break this open for you. These geodes contain a wide variety of Minerals.\/538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 541 544 545 546 550 551 559 560 561 564 567 572 573 577 539 540 543 547 553 554 562 563 565 570 575 578 121 122 123"
+      },
+      "name": "Omni Geode",
+      "description": "A blacksmith can break this open for you. These geodes contain a wide variety of Minerals.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Omni Geode"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 749 5"
+  }
+}, {
+  "uid": "9e390b837ff51c925ad62fec0f50ee1a",
+  "raw": "Boiler Room\/22",
+  "id": 22,
+  "title": "Trees",
+  "xnb": {
+    "raw": "Trees\/O 351 10\/311 99 0 408 10 0 310 99 0 309 99 0\/1\/2"
+  },
+  "lang": "en",
+  "name": "Boiler Room",
+  "filename": "Bundles",
+  "translation": "Trees",
+  "requirements": [{
+    "item": {
+      "uid": "0cd3bac27768ccf9f99446410a97af4a",
+      "id": 311,
+      "xnb": {
+        "raw": "Pine Cone\/5\/-300\/Crafting -74\/Pine Cone\/Place this on your farm to plant a pine tree."
+      },
+      "name": "Pine Cone",
+      "description": "Place this on your farm to plant a pine tree.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pine Cone"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "311 99 0 408 10 0 310 99 0 309 99 0"
+  }, {
+    "item": {
+      "uid": "4f3de968a86be170de3abc535b8d851f",
+      "id": 408,
+      "xnb": {
+        "raw": "Hazelnut\/90\/12\/Basic -81\/Hazelnut\/That's one big hazelnut!"
+      },
+      "name": "Hazelnut",
+      "description": "That's one big hazelnut!",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hazelnut"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "311 99 0 408 10 0 310 99 0 309 99 0"
+  }, {
+    "item": {
+      "uid": "665154b3fcc3ffeb63d0aa15a9961919",
+      "id": 310,
+      "xnb": {
+        "raw": "Maple Seed\/5\/-300\/Crafting -74\/Maple Seed\/Place this on your farm to plant a maple tree."
+      },
+      "name": "Maple Seed",
+      "description": "Place this on your farm to plant a maple tree.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Maple Seed"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "311 99 0 408 10 0 310 99 0 309 99 0"
+  }, {
+    "item": {
+      "uid": "86443d89aa54594223fc742ad4063a34",
+      "id": 309,
+      "xnb": {
+        "raw": "Acorn\/20\/-300\/Crafting -74\/Acorn\/Place this on your farm to plant an oak tree."
+      },
+      "name": "Acorn",
+      "description": "Place this on your farm to plant an oak tree.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Acorn"
+    },
+    "quantity": 99,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "311 99 0 408 10 0 310 99 0 309 99 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "37014f5740b6da384d22f613446c7d99",
+      "id": 351,
+      "xnb": {
+        "raw": "Muscle Remedy\/500\/20\/Crafting\/Muscle Remedy\/When you've pushed your body too hard, drink this to remove 'Exhaustion'.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Muscle Remedy",
+      "description": "When you've pushed your body too hard, drink this to remove 'Exhaustion'.",
+      "type": "Crafting",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Muscle Remedy"
+    },
+    "quantity": 10,
+    "type": "O",
+    "raw": "O 351 10"
+  }
+}, {
+  "uid": "30d850e2467677687e050a2412df4434",
+  "raw": "Vault\/23",
+  "id": 23,
+  "title": "2,500g",
+  "xnb": {
+    "raw": "2,500g\/O 610 5\/-1 2500 2500\/4"
+  },
+  "lang": "en",
+  "name": "Vault",
+  "filename": "Bundles",
+  "translation": "2,500g",
+  "requirements": [],
+  "money": {
+    "active": true,
+    "value": 2500,
+    "quantity": 2500
+  },
+  "prize": {
+    "item": {
+      "uid": "5874b4d98f83a2835aa0517257a038ee",
+      "id": 610,
+      "xnb": {
+        "raw": "Fruit Salad\/450\/105\/Cooking -7\/Fruit Salad\/A delicious combination of summer fruits.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Fruit Salad",
+      "description": "A delicious combination of summer fruits.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fruit Salad"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 610 5"
+  }
+}, {
+  "uid": "47017aa2cc2829f0acc85a4ef492d1b9",
+  "raw": "Vault\/24",
+  "id": 24,
+  "title": "5,000g",
+  "xnb": {
+    "raw": "5,000g\/O 369 30\/-1 5000 5000\/2"
+  },
+  "lang": "en",
+  "name": "Vault",
+  "filename": "Bundles",
+  "translation": "5,000g",
+  "requirements": [],
+  "money": {
+    "active": true,
+    "value": 5000,
+    "quantity": 5000
+  },
+  "prize": {
+    "item": {
+      "uid": "d64b192399520945d2e712875a966206",
+      "id": 369,
+      "xnb": {
+        "raw": "Quality Fertilizer\/10\/-300\/Basic -19\/Quality Fertilizer\/Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil."
+      },
+      "name": "Quality Fertilizer",
+      "description": "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Quality Fertilizer"
+    },
+    "quantity": 30,
+    "type": "O",
+    "raw": "O 369 30"
+  }
+}, {
+  "uid": "c9a4277d9fff79e9afb313e8ebed7d5c",
+  "raw": "Vault\/25",
+  "id": 25,
+  "title": "10,000g",
+  "xnb": {
+    "raw": "10,000g\/BO 9 1\/-1 10000 10000\/3"
+  },
+  "lang": "en",
+  "name": "Vault",
+  "filename": "Bundles",
+  "translation": "10,000g",
+  "requirements": [],
+  "money": {
+    "active": true,
+    "value": 10000,
+    "quantity": 10000
+  },
+  "prize": {
+    "item": {
+      "uid": "3b5f0a9d21d8911514126f676b8d96ae",
+      "id": 9,
+      "xnb": {
+        "raw": "Lightning Rod\/50\/-300\/Crafting -9\/Collects energy from lightning storms and turns it into battery packs.\/true\/true\/0"
+      },
+      "name": "Lightning Rod",
+      "description": "Collects energy from lightning storms and turns it into battery packs.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Lightning Rod"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 9 1"
+  }
+}, {
+  "uid": "7aa6fd95c89d9eae06b593136205cb1b",
+  "raw": "Vault\/26",
+  "id": 26,
+  "title": "25,000g",
+  "xnb": {
+    "raw": "25,000g\/BO 21 1\/-1 25000 25000\/1"
+  },
+  "lang": "en",
+  "name": "Vault",
+  "filename": "Bundles",
+  "translation": "25,000g",
+  "requirements": [],
+  "money": {
+    "active": true,
+    "value": 25000,
+    "quantity": 25000
+  },
+  "prize": {
+    "item": {
+      "uid": "4d80eef3ee6d7cb37bfdaae15ca2d249",
+      "id": 21,
+      "xnb": {
+        "raw": "Crystalarium\/50\/-300\/Crafting -9\/Insert a gem of your choice and it will grow copies.\/true\/true\/0"
+      },
+      "name": "Crystalarium",
+      "description": "Insert a gem of your choice and it will grow copies.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Crystalarium"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 21 1"
+  }
+}, {
+  "uid": "5bebe63480bbee47c09d80f6fbcff6ff",
+  "raw": "Bulletin Board\/31",
+  "id": 31,
+  "title": "Chef's",
+  "xnb": {
+    "raw": "Chef's\/O 237 5\/724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0\/4"
+  },
+  "lang": "en",
+  "name": "Bulletin Board",
+  "filename": "Bundles",
+  "translation": "Chef's",
+  "requirements": [{
+    "item": {
+      "uid": "582d574d43d352c881264da8a0acefb9",
+      "id": 724,
+      "xnb": {
+        "raw": "Maple Syrup\/200\/20\/Basic -27\/Maple Syrup\/A sweet syrup with a unique flavor.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Maple Syrup",
+      "description": "A sweet syrup with a unique flavor.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Maple Syrup"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }, {
+    "item": {
+      "uid": "06481c6bc1eb9eb3a2bf05edda6009e6",
+      "id": 259,
+      "xnb": {
+        "raw": "Fiddlehead Fern\/90\/10\/Basic -75\/Fiddlehead Fern\/The young shoots are an edible specialty."
+      },
+      "name": "Fiddlehead Fern",
+      "description": "The young shoots are an edible specialty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fiddlehead Fern"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }, {
+    "item": {
+      "uid": "6c680bd2c1e583c6f8024b75318553ef",
+      "id": 208,
+      "xnb": {
+        "raw": "Glazed Yams\/200\/80\/Cooking -7\/Glazed Yams\/Sweet and satisfying... The sugar gives it a hint of caramel.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Glazed Yams",
+      "description": "Sweet and satisfying... The sugar gives it a hint of caramel.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Glazed Yams"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }, {
+    "item": {
+      "uid": "f5726e5e8f95d7dffcc0d5fc4071d121",
+      "id": 376,
+      "xnb": {
+        "raw": "Poppy\/140\/18\/Basic -80\/Poppy\/In addition to its colorful flower, the Poppy has culinary and medicinal uses."
+      },
+      "name": "Poppy",
+      "description": "In addition to its colorful flower, the Poppy has culinary and medicinal uses.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Poppy"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }, {
+    "item": {
+      "uid": "0cbe695c2261d995695b55f76043c480",
+      "id": 205,
+      "xnb": {
+        "raw": "Fried Mushroom\/200\/54\/Cooking -7\/Fried Mushroom\/Earthy and aromatic.\/food\/0 0 0 0 0 0 0 0 0 0 0 2\/600"
+      },
+      "name": "Fried Mushroom",
+      "description": "Earthy and aromatic.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fried Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }, {
+    "item": {
+      "uid": "86205fbf6152aaf4dc07035d6b49c9d3",
+      "id": 200,
+      "xnb": {
+        "raw": "Vegetable Medley\/120\/66\/Cooking -7\/Vegetable Medley\/This is very nutritious.\/food\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Vegetable Medley",
+      "description": "This is very nutritious.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Vegetable Medley"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "c9e51286010b707f0f0c279629f784f1",
+      "id": 237,
+      "xnb": {
+        "raw": "Super Meal\/220\/64\/Cooking -7\/Super Meal\/It's a really energizing meal.\/food\/0 0 0 0 0 0 0 40 0 1 0\/300"
+      },
+      "name": "Super Meal",
+      "description": "It's a really energizing meal.",
+      "type": "Cooking",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Super Meal"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 237 5"
+  }
+}, {
+  "uid": "f572b1ba07a4d4ef72ef139e496b44e1",
+  "raw": "Bulletin Board\/32",
+  "id": 32,
+  "title": "Field Research",
+  "xnb": {
+    "raw": "Field Research\/BO 20 1\/422 1 0 392 1 0 787 1 0 536 1 0\/5"
+  },
+  "lang": "en",
+  "name": "Bulletin Board",
+  "filename": "Bundles",
+  "translation": "Field Research",
+  "requirements": [{
+    "item": {
+      "uid": "18a023ed6b1d059ee2dd962d3bfef588",
+      "id": 422,
+      "xnb": {
+        "raw": "Purple Mushroom\/250\/50\/Basic -81\/Purple Mushroom\/A rare mushroom found deep in caves."
+      },
+      "name": "Purple Mushroom",
+      "description": "A rare mushroom found deep in caves.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Purple Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "422 1 0 392 1 0 787 1 0 536 1 0"
+  }, {
+    "item": {
+      "uid": "a8d1aa4c3665e3be0cbf1a3f94575171",
+      "id": 392,
+      "xnb": {
+        "raw": "Nautilus Shell\/120\/-300\/Basic -23\/Nautilus Shell\/An ancient shell."
+      },
+      "name": "Nautilus Shell",
+      "description": "An ancient shell.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Nautilus Shell"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "422 1 0 392 1 0 787 1 0 536 1 0"
+  }, {
+    "item": {
+      "uid": "2902208338065f86d362b71fba631adb",
+      "id": 787,
+      "xnb": {
+        "raw": "Battery Pack\/500\/-300\/Basic -16\/Battery Pack\/It's fully charged with precious energy."
+      },
+      "name": "Battery Pack",
+      "description": "It's fully charged with precious energy.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Battery Pack"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "422 1 0 392 1 0 787 1 0 536 1 0"
+  }, {
+    "item": {
+      "uid": "8176ed04449ec6e5e3f92350fce2a81a",
+      "id": 536,
+      "xnb": {
+        "raw": "Frozen Geode\/100\/-300\/Basic\/Frozen Geode\/A blacksmith can break this open for you.\/541 544 545 546 550 551 559 560 561 564 567 572 573 577 123"
+      },
+      "name": "Frozen Geode",
+      "description": "A blacksmith can break this open for you.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Frozen Geode"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "422 1 0 392 1 0 787 1 0 536 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "ebc645a7ef66f22b8460949607146472",
+      "id": 20,
+      "xnb": {
+        "raw": "Recycling Machine\/50\/-300\/Crafting -9\/Turns fishing trash into resources.\/true\/true\/0"
+      },
+      "name": "Recycling Machine",
+      "description": "Turns fishing trash into resources.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Recycling Machine"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 20 1"
+  }
+}, {
+  "uid": "bb71704b6a1bd582fb09eccf5ed936bd",
+  "raw": "Bulletin Board\/33",
+  "id": 33,
+  "title": "Enchanter's",
+  "xnb": {
+    "raw": "Enchanter's\/O 337 5\/725 1 0 348 1 0 577 1 0 637 1 0\/1"
+  },
+  "lang": "en",
+  "name": "Bulletin Board",
+  "filename": "Bundles",
+  "translation": "Enchanter's",
+  "requirements": [{
+    "item": {
+      "uid": "75b945e8d3f32785b0d1a64b9f907db1",
+      "id": 725,
+      "xnb": {
+        "raw": "Oak Resin\/150\/-300\/Basic -27\/Oak Resin\/A sticky, fragrant substance derived from oak sap."
+      },
+      "name": "Oak Resin",
+      "description": "A sticky, fragrant substance derived from oak sap.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Oak Resin"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "725 1 0 348 1 0 577 1 0 637 1 0"
+  }, {
+    "item": {
+      "uid": "adcde39a819f9a589282aec684499654",
+      "id": 348,
+      "xnb": {
+        "raw": "Wine\/400\/20\/Basic -26\/Wine\/Drink in moderation.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Wine",
+      "description": "Drink in moderation.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wine"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "725 1 0 348 1 0 577 1 0 637 1 0"
+  }, {
+    "item": {
+      "uid": "cf21a8fb02f9bcdf2364c86028a29623",
+      "id": 577,
+      "xnb": {
+        "raw": "Fairy Stone\/250\/-300\/Minerals -12\/Fairy Stone\/An old miner's song suggests these are made from the bones of ancient fairies."
+      },
+      "name": "Fairy Stone",
+      "description": "An old miner's song suggests these are made from the bones of ancient fairies.",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Fairy Stone"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "725 1 0 348 1 0 577 1 0 637 1 0"
+  }, {
+    "item": {
+      "uid": "4a42bc4dbe1c78f2a1e5ae86a801e9ab",
+      "id": 637,
+      "xnb": {
+        "raw": "Pomegranate\/140\/15\/Basic -79\/Pomegranate\/Within the fruit are clusters of juicy seeds."
+      },
+      "name": "Pomegranate",
+      "description": "Within the fruit are clusters of juicy seeds.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Pomegranate"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "725 1 0 348 1 0 577 1 0 637 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "1aba6e992c8c1f32fc8bed5cb5bb3034",
+      "id": 337,
+      "xnb": {
+        "raw": "Iridium Bar\/1000\/-300\/Basic -15\/Iridium Bar\/A bar of pure iridium."
+      },
+      "name": "Iridium Bar",
+      "description": "A bar of pure iridium.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Iridium Bar"
+    },
+    "quantity": 5,
+    "type": "O",
+    "raw": "O 337 5"
+  }
+}, {
+  "uid": "4e412e6706da4bed743fda17bd2569bf",
+  "raw": "Bulletin Board\/34",
+  "id": 34,
+  "title": "Dye",
+  "xnb": {
+    "raw": "Dye\/BO 25 1\/420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0\/6"
+  },
+  "lang": "en",
+  "name": "Bulletin Board",
+  "filename": "Bundles",
+  "translation": "Dye",
+  "requirements": [{
+    "item": {
+      "uid": "e21b3d8c1c5bb2133f518a8e4e0d9314",
+      "id": 420,
+      "xnb": {
+        "raw": "Red Mushroom\/75\/-20\/Basic -81\/Red Mushroom\/A spotted mushroom sometimes found in caves."
+      },
+      "name": "Red Mushroom",
+      "description": "A spotted mushroom sometimes found in caves.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Red Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }, {
+    "item": {
+      "uid": "582d574d43d352c881264da8a0acefb9",
+      "id": 724,
+      "xnb": {
+        "raw": "Maple Syrup\/200\/20\/Basic -27\/Maple Syrup\/A sweet syrup with a unique flavor.\/drink\/0 0 0 0 0 0 0 0 0 0 0\/0"
+      },
+      "name": "Maple Syrup",
+      "description": "A sweet syrup with a unique flavor.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Maple Syrup"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }, {
+    "item": {
+      "uid": "50e5ef50341c2505cf4eb4f5d2b4a9cb",
+      "id": 421,
+      "xnb": {
+        "raw": "Sunflower\/80\/18\/Basic -80\/Sunflower\/A common misconception is that the flower turns so it's always facing the sun."
+      },
+      "name": "Sunflower",
+      "description": "A common misconception is that the flower turns so it's always facing the sun.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Sunflower"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }, {
+    "item": {
+      "uid": "18a023ed6b1d059ee2dd962d3bfef588",
+      "id": 422,
+      "xnb": {
+        "raw": "Purple Mushroom\/250\/50\/Basic -81\/Purple Mushroom\/A rare mushroom found deep in caves."
+      },
+      "name": "Purple Mushroom",
+      "description": "A rare mushroom found deep in caves.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Purple Mushroom"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 9,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }, {
+    "item": {
+      "uid": "4721deeef0b396f946aa5c79d82b6084",
+      "id": 62,
+      "xnb": {
+        "raw": "Aquamarine\/180\/-300\/Minerals -2\/Aquamarine\/A shimmery blue-green gem ."
+      },
+      "name": "Aquamarine",
+      "description": "A shimmery blue-green gem .",
+      "type": "Minerals",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Aquamarine"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 12,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }, {
+    "item": {
+      "uid": "c4ad1bba65a59c73533cd2bfbf7085c2",
+      "id": 266,
+      "xnb": {
+        "raw": "Red Cabbage\/260\/30\/Basic -75\/Red Cabbage\/Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions."
+      },
+      "name": "Red Cabbage",
+      "description": "Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Red Cabbage"
+    },
+    "quantity": 1,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 15,
+    "raw": "420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "7dd9ef8718ac5f97a80404ec49ae199b",
+      "id": 25,
+      "xnb": {
+        "raw": "Seed Maker\/50\/-300\/Crafting -9\/Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.\/true\/true\/0"
+      },
+      "name": "Seed Maker",
+      "description": "Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.",
+      "type": "Crafting",
+      "category": "BigCraftable",
+      "prizeType": "BO",
+      "title": "Seed Maker"
+    },
+    "quantity": 1,
+    "type": "BO",
+    "raw": "BO 25 1"
+  }
+}, {
+  "uid": "249ad4b838d8831914fe4cd3c7cfb3e7",
+  "raw": "Bulletin Board\/35",
+  "id": 35,
+  "title": "Fodder",
+  "xnb": {
+    "raw": "Fodder\/O 633 1\/262 10 0 178 10 0 613 3 0\/3"
+  },
+  "lang": "en",
+  "name": "Bulletin Board",
+  "filename": "Bundles",
+  "translation": "Fodder",
+  "requirements": [{
+    "item": {
+      "uid": "c4b7367aa7c0a2bb64c1283399c68a43",
+      "id": 262,
+      "xnb": {
+        "raw": "Wheat\/25\/-300\/Basic -75\/Wheat\/One of the most widely cultivated grains. Makes a great flour for breads and cakes."
+      },
+      "name": "Wheat",
+      "description": "One of the most widely cultivated grains. Makes a great flour for breads and cakes.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Wheat"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 0,
+    "raw": "262 10 0 178 10 0 613 3 0"
+  }, {
+    "item": {
+      "uid": "480e0a9c2438169a9d4edf79dc3b9c7e",
+      "id": 178,
+      "xnb": {
+        "raw": "Hay\/0\/-300\/Basic\/Hay\/Dried grass used as animal food."
+      },
+      "name": "Hay",
+      "description": "Dried grass used as animal food.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Hay"
+    },
+    "quantity": 10,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 3,
+    "raw": "262 10 0 178 10 0 613 3 0"
+  }, {
+    "item": {
+      "uid": "5bb4b81f0743afde070510577e0e1048",
+      "id": 613,
+      "xnb": {
+        "raw": "Apple\/100\/15\/Basic -79\/Apple\/A crisp fruit used for juice and cider."
+      },
+      "name": "Apple",
+      "description": "A crisp fruit used for juice and cider.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apple"
+    },
+    "quantity": 3,
+    "quality": {
+      "value": 0,
+      "name": "Normal"
+    },
+    "sort": 6,
+    "raw": "262 10 0 178 10 0 613 3 0"
+  }],
+  "money": {
+    "active": false,
+    "value": 0,
+    "quantity": 0
+  },
+  "prize": {
+    "item": {
+      "uid": "e233c61f1c7e9b245667dde036644f3a",
+      "id": 633,
+      "xnb": {
+        "raw": "Apple Sapling\/1000\/-300\/Basic -74\/Apple Sapling\/Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty."
+      },
+      "name": "Apple Sapling",
+      "description": "Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+      "type": "Basic",
+      "category": "Object",
+      "prizeType": "O",
+      "title": "Apple Sapling"
+    },
+    "quantity": 1,
+    "type": "O",
+    "raw": "O 633 1"
+  }
+}]

@@ -1,0 +1,47 @@
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Pantry/0: "Spring Crops/O 465 20/24 1 0 188 1 0 190 1 0 192 1 0/0/Cultivos de Primavera" #!String
+    Pantry/1: "Summer Crops/O 621 1/256 1 0 260 1 0 258 1 0 254 1 0/3/Cultivos de Verano" #!String
+    Pantry/2: "Fall Crops/BO 126 1/270 1 0 272 1 0 276 1 0 280 1 0/2/Cultivos de Otoño" #!String
+    Pantry/3: "Quality Crops/O 466 30/24 5 2 254 5 2 276 5 2 270 5 2/6/3/Cultivos de Calidad" #!String
+    Pantry/4: "Animal/O 645 3/336 10 0 72 20 0 101 1 0 521 1 0 524 1 0 529 1 0 639 1 0 640 1 0 641 1 0 642 1 0 643 1 0/4/5/Tesoros" #!String
+    Pantry/5: "Artisan/O 499 10/342 1 0 421 1 0 591 1 0 593 1 0 595 1 0 597 1 0 613 1 0 634 1 0 635 1 0 636 1 0 637 1 0 638 1 0/1/6/Artesano" #!String
+    Crafts Room/13: "Spring Foraging/O 495 30/16 1 0 18 1 0 20 1 0 22 1 0/0/Recolección de Primavera" #!String
+    Crafts Room/14: "Summer Foraging/O 496 30/396 1 0 398 1 0 402 1 0/3/Recolección de Verano" #!String
+    Crafts Room/15: "Fall Foraging/O 497 30/404 1 0 406 1 0 408 1 0 410 1 0/2/Recolección de Otoño" #!String
+    Crafts Room/16: "Winter Foraging/O 498 30/412 1 0 414 1 0 416 1 0 418 1 0/6/Recolección de Invierno" #!String
+    Crafts Room/17: "Construction/BO 114 1/388 99 0 388 99 0 390 99 0 709 10 0/4/Construcción" #!String
+    Crafts Room/19: "Exotic Foraging/O 235 5/88 1 0 90 1 0 78 1 0 420 1 0 422 1 0 724 1 0 725 1 0 726 1 0 257 1 0/1/5/Recolección Exótica" #!String
+    Fish Tank/6: "River Fish/O 681 5/304 5 2 348 5 0 303 5 0 346 10 0/6/Alcohol" #!String
+    Fish Tank/7: "Lake Fish/O 689 5/565 1 0 540 1 0 542 1 0 548 1 0/0/Minerales" #!String
+    Fish Tank/8: "Ocean Fish/O 688 5/238 1 0 244 1 0 606 1 0 611 1 0/5/Comida Sabrosa" #!String
+    Fish Tank/9: "Night Fishing/O 349 10/260 5 2 270 5 2 196 50 0/1/Ensalada Picante" #!String
+    Fish Tank/10: "Specialty Fish/O 298 50/8 10 0 15 10 0 463 5 0 464 5 0/4/Fabricables" #!String
+    Fish Tank/11: "Crab Pot/O 268 10/632 10 0 628 10 0 629 10 0 630 10 0 631 10 0 633 10 0 495 99 0 496 99 0 497 99 0 498 99 0/1/5/Semillas" #!String
+    Boiler Room/20: "Blacksmith's/BO 13 1/334 1 0 335 1 0 336 1 0/2/Herrero" #!String
+    Boiler Room/21: "Geologist's/O 749 5/80 1 0 86 1 0 84 1 0 82 1 0/1/Geólogo" #!String
+    Boiler Room/22: "Adventurer's/O 351 10/311 99 0 408 10 0 310 99 0 309 99 0/1/2/Árboles" #!String
+    Vault/23: "2,500g/O 610 5/-1 2500 2500/4/2,500g" #!String
+    Vault/24: "5,000g/O 369 30/-1 5000 5000/2/5,000g" #!String
+    Vault/25: "10,000g/BO 9 1/-1 10000 10000/3/10,000g" #!String
+    Vault/26: "25,000g/BO 21 1/-1 25000 25000/1/25,000g" #!String
+    Bulletin Board/31: "Chef's/O 237 5/724 1 0 259 1 0 208 1 0 376 1 0 205 1 0 200 1 0/4/Chef" #!String
+    Bulletin Board/32: "Field Research/BO 20 1/422 1 0 392 1 0 787 1 0 536 1 0/5/Investigación de Campo" #!String
+    Bulletin Board/33: "Enchanter's/O 337 5/725 1 0 348 1 0 577 1 0 637 1 0/1/Hechizero" #!String
+    Bulletin Board/34: "Dye/BO 25 1/420 1 0 724 1 0 421 1 0 422 1 0 62 1 0 266 1 0/6/Pigmentos" #!String
+    Bulletin Board/35: "Fodder/O 633 1/262 10 0 178 10 0 613 3 0/3/Forraje" #!String
