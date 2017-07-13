@@ -14,6 +14,7 @@ Copy `Bundles.xnb` replacing the file in `Data/Bundles.xnb` inside the StarDew V
 
 * English `Bundles.xnb`
 * Spanish `Bundles.es-ES.xnb`
+* German  `Bundles.de-DE.xnb` (thanks [martin21](https://github.com/martin21))
 
 **Important**
 
